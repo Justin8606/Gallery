@@ -1,0 +1,87 @@
+h1{
+    color: lightcyan;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+body{
+    background-image: url("./images/Film\ Gallery\ bg.jpg");
+    background-size: cover;
+
+}
+.row{
+    width: 100%;
+    height: 500px;
+    /* background-color: red; */
+    position: relative;
+    left: 175px;
+    top: -70px;
+
+}
+.col{
+    border: 2px solid darkslategray;;
+    width: 245px;
+    height: 456px;
+    position: absolute;
+    top: 100px;
+}
+.col-1{
+    
+    background-color: white;
+    left: -100px;
+    padding: 5px;
+    
+}
+.col-2{
+    
+    background-color: white;
+    left: 285px;
+    padding: 5px;
+    
+
+
+}
+.col-3{
+    
+    background-color: white;
+    left: 665px;
+    padding: 5px;
+    
+}
+.col-4{
+    
+    background-color: white;
+    left: 1050px;
+    padding: 5px;
+    
+}
+img{
+    width: 100%;
+    height: 240px;
+}
+h2{
+    color: darkslategrey;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+button{
+    background-color: black;
+    color: white;
+    margin-left: 30%;
+
+}
+
+.col-1-1{
+    height: 4px;
+    width: 5px;
+    
+    background-color: red;
+}
+
+/* look at the code of others of this project */
+/* Important program */
+
+/* try to understand background image and background size deeply. */
+
+/* next is display.html */
